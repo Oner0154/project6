@@ -2,3 +2,5 @@ merhaba
 nasilsin 
 Ugur
 cakisma olavak
+deneme remote
+
